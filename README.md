@@ -37,7 +37,7 @@ This project received a grade of 78%.
 
 Acknowledgements:
 -
-This project was completed as part of the COMP4030 module at the University of Nottingham by Timothy Murphy, Nicholas Fruin, and Digvijay Kasana. Special thanks to the professors and peers for their support and guidance.
+This project was completed as part of the COMP4030 module at the University of Nottingham. Special thanks to the professors and peers for their support and guidance.
 
 License:
 - 
